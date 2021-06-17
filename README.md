@@ -1,5 +1,5 @@
 # python_if_else
-IF,ELSE,ELIF,NESTED
+(python)IF,ELSE,ELIF,NESTED
 
 Python supports the usual logical conditions from mathematics:
 
